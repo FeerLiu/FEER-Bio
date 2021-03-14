@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "FEER"
-description:	       "FEER Blog"
-author:              "FEER LIU"
+description:	       "Generate From Jekyll"
+author:              "FEER"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
